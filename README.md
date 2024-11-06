@@ -20,4 +20,8 @@ practice with youtube, DanilovCode - Уроки PHP, Yii2
 
 #docker run -d -p 80:80 -v $(pwd)/rscustom-file.html:/usr/share/nginx/html/index.html nginx
 
-#<?php phpinfo();#
+
+
+ <!-- it was a file .html
+ hello world!!!!25
+ Runing -->
