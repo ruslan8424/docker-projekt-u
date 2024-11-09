@@ -11,7 +11,6 @@ $row = $stmt->fetch();
 
 print_r($row)
 
-hgk,hgkjhkjhkjhkjh
 
 
 
