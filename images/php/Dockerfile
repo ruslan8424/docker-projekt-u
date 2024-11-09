@@ -9,4 +9,3 @@ WORKDIR /var/www/public_html
 
 ENTRYPOINT [ "php-fpm" ]
 
-kjhklhjkjhkjhkjh
